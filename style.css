@@ -45,3 +45,17 @@ li {
 li:hover {
     transform: scale(1.03);
 }
+button {
+    background-color: #97ad6d;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #a363b3;
+}
